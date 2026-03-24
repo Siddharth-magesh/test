@@ -1,0 +1,7 @@
+{
+  "prompt": "Create a single-frame, emotionally resonant data image based on annual global temperature anomalies from 1880 to present. Avoid standard chart types, axis labels, or legends. Use concentric, irregular rings like organic tree rings: cooler early years in deep ocean blues, transitioning to ash neutrals, then feverish reds for recent years. Make later hot years more jagged and unstable to imply stress. Cinematic editorial style, textured atmosphere, subtle smoke and dust, magazine-cover quality, high detail, no infographic icons. Core insight: 9 of the 10 hottest years since 1940 occurred in 2016-2025, showing a sharp concentration of extreme warming now.",
+  "model": "Procedural Python Renderer v1 (Pillow + NumPy)",
+  "dataset_name": "Our World in Data - Annual temperature anomalies (World)",
+  "dataset_url": "https://ourworldindata.org/grapher/annual-temperature-anomalies.csv?country=~OWID_WRL",
+  "insight": "9 of the 10 hottest years since 1940 occurred in 2016-2025, showing a sharp concentration of extreme warming now."
+}
